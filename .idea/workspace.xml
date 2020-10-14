@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ce706c9-cb12-4101-914d-dc67410b0384" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hu9SifEZ1z42LDOwaF25visTFy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="weather" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ce706c9-cb12-4101-914d-dc67410b0384" name="Default Changelist" comment="" />
+      <created>1600850111957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600850111957</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="72" y="102" width="623" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602605160422">
+      <screen x="72" y="27" width="1294" height="636" />
+    </state>
+    <state x="72" y="102" width="623" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1294.636@72.27.1294.636" timestamp="1602605160422" />
+    <state x="579" y="245" width="376" height="239" key="Github.ShareDialog" timestamp="1602689968023">
+      <screen x="72" y="27" width="1294" height="636" />
+    </state>
+    <state x="579" y="245" width="376" height="239" key="Github.ShareDialog/72.27.1294.636@72.27.1294.636" timestamp="1602689968023" />
+    <state x="436" y="30" width="555" height="633" key="Github.UntrackedFilesDialog" timestamp="1602689459931">
+      <screen x="72" y="27" width="1294" height="636" />
+    </state>
+    <state x="436" y="30" width="555" height="633" key="Github.UntrackedFilesDialog/72.27.1294.636@72.27.1294.636" timestamp="1602689459931" />
+    <state width="1271" height="212" key="GridCell.Tab.0.bottom" timestamp="1602657425590">
+      <screen x="72" y="27" width="1294" height="636" />
+    </state>
+    <state width="1265" height="137" key="GridCell.Tab.0.bottom/72.27.1288.634@72.27.1288.634" timestamp="1600852046026" />
+    <state width="1265" height="137" key="GridCell.Tab.0.bottom/72.27.1288.636@72.27.1288.636" timestamp="1600864766386" />
+    <state width="1271" height="212" key="GridCell.Tab.0.bottom/72.27.1294.636@72.27.1294.636" timestamp="1602657425590" />
+    <state width="1271" height="212" key="GridCell.Tab.0.center" timestamp="1602657425590">
+      <screen x="72" y="27" width="1294" height="636" />
+    </state>
+    <state width="1265" height="137" key="GridCell.Tab.0.center/72.27.1288.634@72.27.1288.634" timestamp="1600852046026" />
+    <state width="1265" height="137" key="GridCell.Tab.0.center/72.27.1288.636@72.27.1288.636" timestamp="1600864766385" />
+    <state width="1271" height="212" key="GridCell.Tab.0.center/72.27.1294.636@72.27.1294.636" timestamp="1602657425590" />
+    <state width="1271" height="212" key="GridCell.Tab.0.left" timestamp="1602657425590">
+      <screen x="72" y="27" width="1294" height="636" />
+    </state>
+    <state width="1265" height="137" key="GridCell.Tab.0.left/72.27.1288.634@72.27.1288.634" timestamp="1600852046025" />
+    <state width="1265" height="137" key="GridCell.Tab.0.left/72.27.1288.636@72.27.1288.636" timestamp="1600864766385" />
+    <state width="1271" height="212" key="GridCell.Tab.0.left/72.27.1294.636@72.27.1294.636" timestamp="1602657425590" />
+    <state width="1271" height="212" key="GridCell.Tab.0.right" timestamp="1602657425590">
+      <screen x="72" y="27" width="1294" height="636" />
+    </state>
+    <state width="1265" height="137" key="GridCell.Tab.0.right/72.27.1288.634@72.27.1288.634" timestamp="1600852046026" />
+    <state width="1265" height="137" key="GridCell.Tab.0.right/72.27.1288.636@72.27.1288.636" timestamp="1600864766386" />
+    <state width="1271" height="212" key="GridCell.Tab.0.right/72.27.1294.636@72.27.1294.636" timestamp="1602657425590" />
+    <state width="1271" height="266" key="GridCell.Tab.1.bottom" timestamp="1601760747266">
+      <screen x="72" y="27" width="1294" height="636" />
+    </state>
+    <state width="1271" height="266" key="GridCell.Tab.1.bottom/72.27.1294.636@72.27.1294.636" timestamp="1601760747266" />
+    <state width="1271" height="266" key="GridCell.Tab.1.center" timestamp="1601760747265">
+      <screen x="72" y="27" width="1294" height="636" />
+    </state>
+    <state width="1271" height="266" key="GridCell.Tab.1.center/72.27.1294.636@72.27.1294.636" timestamp="1601760747265" />
+    <state width="1271" height="266" key="GridCell.Tab.1.left" timestamp="1601760747263">
+      <screen x="72" y="27" width="1294" height="636" />
+    </state>
+    <state width="1271" height="266" key="GridCell.Tab.1.left/72.27.1294.636@72.27.1294.636" timestamp="1601760747263" />
+    <state width="1271" height="266" key="GridCell.Tab.1.right" timestamp="1601760747265">
+      <screen x="72" y="27" width="1294" height="636" />
+    </state>
+    <state width="1271" height="266" key="GridCell.Tab.1.right/72.27.1294.636@72.27.1294.636" timestamp="1601760747265" />
+    <state x="206" y="27" width="1012" height="636" key="SettingsEditor" timestamp="1602689425993">
+      <screen x="72" y="27" width="1294" height="636" />
+    </state>
+    <state x="205" y="27" width="1012" height="634" key="SettingsEditor/72.27.1288.634@72.27.1288.634" timestamp="1600851593857" />
+    <state x="206" y="27" width="1012" height="636" key="SettingsEditor/72.27.1294.636@72.27.1294.636" timestamp="1602689425993" />
+    <state x="523" y="257" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602689252381">
+      <screen x="72" y="27" width="1294" height="636" />
+    </state>
+    <state x="523" y="257" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog/72.27.1294.636@72.27.1294.636" timestamp="1602689252381" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="res" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
