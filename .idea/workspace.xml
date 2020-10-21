@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ce706c9-cb12-4101-914d-dc67410b0384" name="Default Changelist" comment="commit">
-      <change beforePath="$PROJECT_DIR$/dock.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603297344368</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1603297502414</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603297502414</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,30 +139,30 @@
       <screen x="72" y="27" width="1294" height="636" />
     </state>
     <state x="436" y="30" width="555" height="633" key="Github.UntrackedFilesDialog/72.27.1294.636@72.27.1294.636" timestamp="1602689984786" />
-    <state width="1271" height="212" key="GridCell.Tab.0.bottom" timestamp="1603293072969">
+    <state width="1271" height="212" key="GridCell.Tab.0.bottom" timestamp="1603302384841">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
     <state width="1265" height="137" key="GridCell.Tab.0.bottom/72.27.1288.634@72.27.1288.634" timestamp="1600852046026" />
     <state width="1265" height="137" key="GridCell.Tab.0.bottom/72.27.1288.636@72.27.1288.636" timestamp="1600864766386" />
-    <state width="1271" height="212" key="GridCell.Tab.0.bottom/72.27.1294.636@72.27.1294.636" timestamp="1603293072969" />
-    <state width="1271" height="212" key="GridCell.Tab.0.center" timestamp="1603293072968">
+    <state width="1271" height="212" key="GridCell.Tab.0.bottom/72.27.1294.636@72.27.1294.636" timestamp="1603302384841" />
+    <state width="1271" height="212" key="GridCell.Tab.0.center" timestamp="1603302384840">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
     <state width="1265" height="137" key="GridCell.Tab.0.center/72.27.1288.634@72.27.1288.634" timestamp="1600852046026" />
     <state width="1265" height="137" key="GridCell.Tab.0.center/72.27.1288.636@72.27.1288.636" timestamp="1600864766385" />
-    <state width="1271" height="212" key="GridCell.Tab.0.center/72.27.1294.636@72.27.1294.636" timestamp="1603293072968" />
-    <state width="1271" height="212" key="GridCell.Tab.0.left" timestamp="1603293072968">
+    <state width="1271" height="212" key="GridCell.Tab.0.center/72.27.1294.636@72.27.1294.636" timestamp="1603302384840" />
+    <state width="1271" height="212" key="GridCell.Tab.0.left" timestamp="1603302384840">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
     <state width="1265" height="137" key="GridCell.Tab.0.left/72.27.1288.634@72.27.1288.634" timestamp="1600852046025" />
     <state width="1265" height="137" key="GridCell.Tab.0.left/72.27.1288.636@72.27.1288.636" timestamp="1600864766385" />
-    <state width="1271" height="212" key="GridCell.Tab.0.left/72.27.1294.636@72.27.1294.636" timestamp="1603293072968" />
-    <state width="1271" height="212" key="GridCell.Tab.0.right" timestamp="1603293072968">
+    <state width="1271" height="212" key="GridCell.Tab.0.left/72.27.1294.636@72.27.1294.636" timestamp="1603302384840" />
+    <state width="1271" height="212" key="GridCell.Tab.0.right" timestamp="1603302384841">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
     <state width="1265" height="137" key="GridCell.Tab.0.right/72.27.1288.634@72.27.1288.634" timestamp="1600852046026" />
     <state width="1265" height="137" key="GridCell.Tab.0.right/72.27.1288.636@72.27.1288.636" timestamp="1600864766386" />
-    <state width="1271" height="212" key="GridCell.Tab.0.right/72.27.1294.636@72.27.1294.636" timestamp="1603293072968" />
+    <state width="1271" height="212" key="GridCell.Tab.0.right/72.27.1294.636@72.27.1294.636" timestamp="1603302384841" />
     <state width="1271" height="266" key="GridCell.Tab.1.bottom" timestamp="1601760747266">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
@@ -177,30 +184,16 @@
     </state>
     <state x="205" y="27" width="1012" height="634" key="SettingsEditor/72.27.1288.634@72.27.1288.634" timestamp="1600851593857" />
     <state x="206" y="27" width="1012" height="636" key="SettingsEditor/72.27.1294.636@72.27.1294.636" timestamp="1603292765808" />
-    <state x="314" y="81" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603297362784">
+    <state x="314" y="81" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603297512648">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
-    <state x="314" y="81" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.636@72.27.1294.636" timestamp="1603297362784" />
+    <state x="314" y="81" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.636@72.27.1294.636" timestamp="1603297512648" />
     <state x="523" y="257" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602689252381">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
     <state x="523" y="257" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog/72.27.1294.636@72.27.1294.636" timestamp="1602689252381" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/app.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/app.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="res" language="Python" />

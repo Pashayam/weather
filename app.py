@@ -5,9 +5,12 @@ import os
 app = Flask(__name__)
 
 
+port_current = os.environ.get('PORT_CURRENT', 5000)
+url_current = os.environ.get('URL_CURRENT', 'http://api.worldweatheronline.com/premium/v1/weather.ashx')
+
+
 @app.route("/")
 def simple():
-    url_current = os.environ.get('URL_CURRENT', 'http://api.worldweatheronline.com/premium/v1/weather.ashx')
     city_ = request.args.get('city')
     dt_ = request.args.get('dt')
     try:
@@ -22,4 +25,4 @@ def simple():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=port_current, debug=True)
