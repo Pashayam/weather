@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ce706c9-cb12-4101-914d-dc67410b0384" name="Default Changelist" comment="" />
+    <list default="true" id="6ce706c9-cb12-4101-914d-dc67410b0384" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dock.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/weather.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/weather.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,14 +34,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hu9SifEZ1z42LDOwaF25visTFy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.app">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -68,43 +94,59 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="72" y="102" width="623" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602605160422">
+    <state x="72" y="102" width="623" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603293174657">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
-    <state x="72" y="102" width="623" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1294.636@72.27.1294.636" timestamp="1602605160422" />
-    <state x="579" y="245" width="376" height="239" key="Github.ShareDialog" timestamp="1602689968023">
+    <state x="72" y="102" width="623" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1294.636@72.27.1294.636" timestamp="1603293174657" />
+    <state x="497" y="92" width="424" height="520" key="FileChooserDialogImpl" timestamp="1603292735184">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
-    <state x="579" y="245" width="376" height="239" key="Github.ShareDialog/72.27.1294.636@72.27.1294.636" timestamp="1602689968023" />
-    <state x="436" y="30" width="555" height="633" key="Github.UntrackedFilesDialog" timestamp="1602689459931">
+    <state x="497" y="92" width="424" height="520" key="FileChooserDialogImpl/72.27.1294.636@72.27.1294.636" timestamp="1603292735184" />
+    <state x="579" y="245" width="376" height="239" key="Github.ShareDialog" timestamp="1602689979009">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
-    <state x="436" y="30" width="555" height="633" key="Github.UntrackedFilesDialog/72.27.1294.636@72.27.1294.636" timestamp="1602689459931" />
-    <state width="1271" height="212" key="GridCell.Tab.0.bottom" timestamp="1602657425590">
+    <state x="579" y="245" width="376" height="239" key="Github.ShareDialog/72.27.1294.636@72.27.1294.636" timestamp="1602689979009" />
+    <state x="436" y="30" width="555" height="633" key="Github.UntrackedFilesDialog" timestamp="1602689984786">
+      <screen x="72" y="27" width="1294" height="636" />
+    </state>
+    <state x="436" y="30" width="555" height="633" key="Github.UntrackedFilesDialog/72.27.1294.636@72.27.1294.636" timestamp="1602689984786" />
+    <state width="1271" height="212" key="GridCell.Tab.0.bottom" timestamp="1603293072969">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
     <state width="1265" height="137" key="GridCell.Tab.0.bottom/72.27.1288.634@72.27.1288.634" timestamp="1600852046026" />
     <state width="1265" height="137" key="GridCell.Tab.0.bottom/72.27.1288.636@72.27.1288.636" timestamp="1600864766386" />
-    <state width="1271" height="212" key="GridCell.Tab.0.bottom/72.27.1294.636@72.27.1294.636" timestamp="1602657425590" />
-    <state width="1271" height="212" key="GridCell.Tab.0.center" timestamp="1602657425590">
+    <state width="1271" height="212" key="GridCell.Tab.0.bottom/72.27.1294.636@72.27.1294.636" timestamp="1603293072969" />
+    <state width="1271" height="212" key="GridCell.Tab.0.center" timestamp="1603293072968">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
     <state width="1265" height="137" key="GridCell.Tab.0.center/72.27.1288.634@72.27.1288.634" timestamp="1600852046026" />
     <state width="1265" height="137" key="GridCell.Tab.0.center/72.27.1288.636@72.27.1288.636" timestamp="1600864766385" />
-    <state width="1271" height="212" key="GridCell.Tab.0.center/72.27.1294.636@72.27.1294.636" timestamp="1602657425590" />
-    <state width="1271" height="212" key="GridCell.Tab.0.left" timestamp="1602657425590">
+    <state width="1271" height="212" key="GridCell.Tab.0.center/72.27.1294.636@72.27.1294.636" timestamp="1603293072968" />
+    <state width="1271" height="212" key="GridCell.Tab.0.left" timestamp="1603293072968">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
     <state width="1265" height="137" key="GridCell.Tab.0.left/72.27.1288.634@72.27.1288.634" timestamp="1600852046025" />
     <state width="1265" height="137" key="GridCell.Tab.0.left/72.27.1288.636@72.27.1288.636" timestamp="1600864766385" />
-    <state width="1271" height="212" key="GridCell.Tab.0.left/72.27.1294.636@72.27.1294.636" timestamp="1602657425590" />
-    <state width="1271" height="212" key="GridCell.Tab.0.right" timestamp="1602657425590">
+    <state width="1271" height="212" key="GridCell.Tab.0.left/72.27.1294.636@72.27.1294.636" timestamp="1603293072968" />
+    <state width="1271" height="212" key="GridCell.Tab.0.right" timestamp="1603293072968">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
     <state width="1265" height="137" key="GridCell.Tab.0.right/72.27.1288.634@72.27.1288.634" timestamp="1600852046026" />
     <state width="1265" height="137" key="GridCell.Tab.0.right/72.27.1288.636@72.27.1288.636" timestamp="1600864766386" />
-    <state width="1271" height="212" key="GridCell.Tab.0.right/72.27.1294.636@72.27.1294.636" timestamp="1602657425590" />
+    <state width="1271" height="212" key="GridCell.Tab.0.right/72.27.1294.636@72.27.1294.636" timestamp="1603293072968" />
     <state width="1271" height="266" key="GridCell.Tab.1.bottom" timestamp="1601760747266">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
@@ -121,11 +163,11 @@
       <screen x="72" y="27" width="1294" height="636" />
     </state>
     <state width="1271" height="266" key="GridCell.Tab.1.right/72.27.1294.636@72.27.1294.636" timestamp="1601760747265" />
-    <state x="206" y="27" width="1012" height="636" key="SettingsEditor" timestamp="1602689425993">
+    <state x="206" y="27" width="1012" height="636" key="SettingsEditor" timestamp="1603292765808">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
     <state x="205" y="27" width="1012" height="634" key="SettingsEditor/72.27.1288.634@72.27.1288.634" timestamp="1600851593857" />
-    <state x="206" y="27" width="1012" height="636" key="SettingsEditor/72.27.1294.636@72.27.1294.636" timestamp="1602689425993" />
+    <state x="206" y="27" width="1012" height="636" key="SettingsEditor/72.27.1294.636@72.27.1294.636" timestamp="1603292765808" />
     <state x="523" y="257" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602689252381">
       <screen x="72" y="27" width="1294" height="636" />
     </state>
